@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
     <name>Cars</name>
-    <author>"Your Name Here"</author>
-    <packageId>yourName.ModName</packageId>
-    <description>"Super Cool Mod"</description>
+    <author>"LouisP2"</author>
+    <packageId>LouisP2.cars</packageId>
+    <description>"Allows players to build cars to travel the world map"</description>
     <supportedVersions>
-        <li>1.4</li>
+        <li>1.5</li>
     </supportedVersions>
 </ModMetaData>
 <!--
