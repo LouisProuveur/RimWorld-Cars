@@ -5,7 +5,7 @@
 <ThingDef ParentName="ResourceBase">
     <defName>LP2_smallEngine</defName>
     <label>small engine</label>
-    <description>A small mono-cylinder engine. Used to build low power vehicles.</description>
+    <description>A small mono-cylinder engine.\n\nIt is used to build low power vehicles.</description>
     <graphicData>
       <texPath>Things/Item/Resource/ComponentSpacer</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
@@ -17,11 +17,10 @@
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>400</MarketValue>
-      <Mass>10</Mass>
+      <Mass>15</Mass>
       <Flammability>0</Flammability>
       <DeteriorationRate>1.0</DeteriorationRate>
     </statBases>
-    <intricate>true</intricate>
     <thingCategories>
       <li>Manufactured</li>
     </thingCategories>
@@ -30,7 +29,7 @@
     </tradeTags>
 
     <costList>
-      <Steel>50</Steel>
+      <Steel>20</Steel>
       <ComponentIndustrial>10</ComponentIndustrial>
     </costList>
 
