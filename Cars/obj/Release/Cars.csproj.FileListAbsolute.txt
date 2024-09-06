@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Cars\Cars\bin\Release\Cars.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Cars\Cars\bin\Release\Cars.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Cars\Cars\obj\Release\Cars.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Cars\Cars\obj\Release\Cars.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Cars\Cars\obj\Release\Cars.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Cars\Assemblies\Cars.dll
